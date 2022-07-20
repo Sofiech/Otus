@@ -1,0 +1,34 @@
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+git config --global user.email "MY_NAME@example.com"
+
+ git config --global user.name "Sofiech_Nataliia
+> git config --global user.name "Sofiech_Nataliia"
+> git config --global user.email "aspid.76@Yandex.ru"
+> git config --list
+> git config user.name
+> git config user.email
+
+ошибка
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git config --global user.name "Sofiech_Nataliia
+> git config --global user.name "Sofiech_Nataliia"
+> git config --global user.email "aspid.76@Yandex.ru"
+> git config --list
+> git config user.name
+> git config user.email
+> git push
+> git status
+> git status
+> git config --global user.name "aspid Nataliia"
+>  git config --global user.name "Sofiech_Nataliia"
+>  git config --global user.name "Sofiech_Nataliia"
+> git config --global user.name "Sofiech_Nataliia"
+>  git config --global user.email "aspid.76@yandex.ru"
+> git commit -m "текст"
+> git config --global user.name "Sofiech Nataliia"
+> git config --global user.email "aspid.76@yandex.ru"
+> git config --list
+> git branch test
+> git checkout test
+

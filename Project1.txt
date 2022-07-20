@@ -1,0 +1,62 @@
+Привет!
+Я первый раз в Git
+spid@DESKTOP-I5VD03F MINGW32 ~/Git
+$ Git Init
+fatal: cannot handle Init as a builtin
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git
+$ git init
+Initialized empty Git repository in C:/Users/aspid/Git/.git/
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/aspid/Git/.git/
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "\320\242\320\265\320\272\321\201\321\202 1.txt"
+        "\321\204\320\260\320\271\320\273 1.docx"
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git add .
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git add .
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   "\320\242\320\265\320\272\321\201\321\202 1.txt"
+        new file:   "\321\204\320\260\320\271\320\273 1.docx"
+
+
+aspid@DESKTOP-I5VD03F MINGW32 ~/Git (master)
+
